@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Henger_OOP_feladat.Henger">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAIAAEAAAAAAAAAAAAAAAACAAIAQAAAAE=</HashCode>
+      <FileName>Henger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Henger_OOP_feladat.Cso">
+    <Position X="2.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>Cso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Henger_OOP_feladat.TomorHenger">
+    <Position X="7.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAAAAQAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TomorHenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
